@@ -4,7 +4,7 @@ Le module Analyse du Besoin est dispenser par Mohammed ATTIC
 
 Les apprentis réalisant ce projet sont :
 - Alexandre CANTON CONDES
-- Léon BOURDAUT
+- Léon BOURDAUD
 
 ## Le sujet
 
