@@ -6,5 +6,5 @@ Les apprentis réalisant ce projet sont :
 - Alexandre CANTON CONDES
 - Léon BOURDAUD
 
-## Le sujet
+## Le sujet : Pantal'IA
 
